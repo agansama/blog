@@ -1,11 +1,11 @@
-- title: Documentation
-  pages:
-	- title: Overview
+ - title: Documentation
+   pages:
+     - title: Overview
 
-- title: Basics
-  pages:
-	- title: Hello World
+ - title: Basics
+   pages:
+     - title: Hello World
 
-- title: Beyond The Basics
-  pages:
-	- title: Modules
+ - title: Beyond The Basics
+   pages:
+     - title: Modules
