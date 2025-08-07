@@ -2,10 +2,11 @@
    pages:
      - title: Overview
 
- - title: Basics
+ - title: 胖达blog
    pages:
-     - title: Hello World
-
+     - title: 胖达-养车月报
+     - title: 胖达-购车日记
+     
  - title: Beyond The Basics
    pages:
      - title: Modules
